@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200">
+  <!-- iPad body -->
+  <rect x="10" y="5" width="140" height="190" rx="16" ry="16" fill="#1D3557" />
+  <!-- Screen bezel -->
+  <rect x="14" y="9" width="132" height="182" rx="13" ry="13" fill="#16213e" />
+  <!-- Display -->
+  <rect x="18" y="22" width="124" height="156" rx="4" ry="4" fill="#A8DADC" opacity="0.15" />
+  <!-- Front camera top center -->
+  <circle cx="80" cy="15" r="4" fill="#0d1b2a" />
+  <circle cx="80" cy="15" r="2" fill="#16213e" />
+  <!-- Home indicator -->
+  <rect x="62" y="181" width="36" height="4" rx="2" fill="#457B9D" opacity="0.55" />
+  <!-- Side buttons -->
+  <rect x="5" y="52" width="5" height="22" rx="2" fill="#457B9D" />
+  <rect x="150" y="40" width="5" height="28" rx="2" fill="#457B9D" />
+  <!-- Screen content - app grid suggestion -->
+  <rect x="26" y="32" width="108" height="10" rx="3" fill="#E63946" opacity="0.45" />
+  <!-- App icons grid -->
+  <rect x="26" y="50" width="22" height="22" rx="5" fill="#fff" opacity="0.10" />
+  <rect x="54" y="50" width="22" height="22" rx="5" fill="#E63946" opacity="0.25" />
+  <rect x="82" y="50" width="22" height="22" rx="5" fill="#fff" opacity="0.10" />
+  <rect x="110" y="50" width="22" height="22" rx="5" fill="#457B9D" opacity="0.30" />
+  <rect x="26" y="78" width="22" height="22" rx="5" fill="#457B9D" opacity="0.20" />
+  <rect x="54" y="78" width="22" height="22" rx="5" fill="#fff" opacity="0.08" />
+  <rect x="82" y="78" width="22" height="22" rx="5" fill="#E63946" opacity="0.18" />
+  <rect x="110" y="78" width="22" height="22" rx="5" fill="#fff" opacity="0.10" />
+</svg>

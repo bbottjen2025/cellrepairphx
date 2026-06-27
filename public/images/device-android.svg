@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" width="120" height="200">
+  <!-- Phone body -->
+  <rect x="15" y="8" width="90" height="184" rx="16" ry="16" fill="#1D3557" />
+  <!-- Screen -->
+  <rect x="19" y="14" width="82" height="172" rx="13" ry="13" fill="#16213e" />
+  <!-- Display area -->
+  <rect x="22" y="26" width="76" height="148" rx="3" ry="3" fill="#A8DADC" opacity="0.15" />
+  <!-- Punch-hole top center -->
+  <circle cx="60" cy="20" r="4.5" fill="#0d1b2a" />
+  <circle cx="60" cy="20" r="2.5" fill="#16213e" />
+  <!-- Android logo hint - green robot antenna dots -->
+  <circle cx="48" cy="8" r="3" fill="#4ade80" opacity="0.7" />
+  <circle cx="72" cy="8" r="3" fill="#4ade80" opacity="0.7" />
+  <!-- Side buttons -->
+  <rect x="10" y="58" width="5" height="16" rx="2" fill="#457B9D" />
+  <rect x="105" y="52" width="5" height="22" rx="2" fill="#457B9D" />
+  <rect x="105" y="79" width="5" height="36" rx="2" fill="#457B9D" />
+  <!-- Navigation bar -->
+  <circle cx="46" cy="174" r="4" fill="#457B9D" opacity="0.4" />
+  <rect x="56" y="171" width="8" height="6" rx="1" fill="#457B9D" opacity="0.4" />
+  <polygon points="74,174 70,170 70,178" fill="#457B9D" opacity="0.4" />
+  <!-- Screen content -->
+  <rect x="30" y="38" width="60" height="8" rx="3" fill="#E63946" opacity="0.5" />
+  <rect x="30" y="52" width="42" height="5" rx="2" fill="#fff" opacity="0.13" />
+</svg>

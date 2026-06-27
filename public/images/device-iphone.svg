@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" width="120" height="200">
+  <!-- Phone body -->
+  <rect x="15" y="8" width="90" height="184" rx="18" ry="18" fill="#1D3557" />
+  <!-- Screen bezel -->
+  <rect x="19" y="12" width="82" height="176" rx="15" ry="15" fill="#16213e" />
+  <!-- Screen -->
+  <rect x="22" y="28" width="76" height="148" rx="4" ry="4" fill="#A8DADC" opacity="0.15" />
+  <!-- Dynamic Island -->
+  <rect x="44" y="18" width="32" height="8" rx="4" ry="4" fill="#0d1b2a" />
+  <!-- Side buttons -->
+  <rect x="10" y="55" width="5" height="18" rx="2" fill="#457B9D" />
+  <rect x="10" y="78" width="5" height="28" rx="2" fill="#457B9D" />
+  <rect x="105" y="65" width="5" height="30" rx="2" fill="#457B9D" />
+  <!-- Home indicator -->
+  <rect x="46" y="170" width="28" height="4" rx="2" fill="#457B9D" opacity="0.6" />
+  <!-- Screen content suggestion -->
+  <rect x="30" y="40" width="60" height="8" rx="3" fill="#E63946" opacity="0.5" />
+  <rect x="30" y="54" width="45" height="5" rx="2" fill="#fff" opacity="0.15" />
+  <rect x="30" y="65" width="52" height="5" rx="2" fill="#fff" opacity="0.12" />
+  <!-- Camera lens -->
+  <circle cx="60" cy="18" r="3" fill="#0d1b2a" />
+  <circle cx="60" cy="18" r="1.5" fill="#16213e" />
+</svg>

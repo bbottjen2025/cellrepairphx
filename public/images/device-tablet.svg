@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200">
+  <!-- Tablet body - slightly different proportions than iPad -->
+  <rect x="10" y="5" width="140" height="190" rx="12" ry="12" fill="#1D3557" />
+  <!-- Screen bezel - thinner -->
+  <rect x="13" y="8" width="134" height="184" rx="10" ry="10" fill="#16213e" />
+  <!-- Display -->
+  <rect x="17" y="18" width="126" height="164" rx="3" ry="3" fill="#A8DADC" opacity="0.15" />
+  <!-- Punch-hole camera -->
+  <circle cx="80" cy="13" r="3.5" fill="#0d1b2a" />
+  <circle cx="80" cy="13" r="1.8" fill="#16213e" />
+  <!-- Android green antenna dots -->
+  <circle cx="66" cy="5" r="2.5" fill="#4ade80" opacity="0.65" />
+  <circle cx="94" cy="5" r="2.5" fill="#4ade80" opacity="0.65" />
+  <!-- Side buttons -->
+  <rect x="5" y="50" width="5" height="18" rx="2" fill="#457B9D" />
+  <rect x="5" y="73" width="5" height="28" rx="2" fill="#457B9D" />
+  <rect x="150" y="44" width="5" height="24" rx="2" fill="#457B9D" />
+  <!-- Nav bar -->
+  <rect x="17" y="178" width="126" height="12" rx="0" fill="#0d1b2a" opacity="0.6" />
+  <circle cx="52" cy="184" r="3.5" fill="#457B9D" opacity="0.5" />
+  <rect x="76" y="181" width="8" height="6" rx="1" fill="#457B9D" opacity="0.5" />
+  <polygon points="108,184 104,179 104,189" fill="#457B9D" opacity="0.5" />
+  <!-- Screen content -->
+  <rect x="26" y="28" width="108" height="9" rx="3" fill="#E63946" opacity="0.4" />
+  <rect x="26" y="44" width="24" height="24" rx="6" fill="#fff" opacity="0.09" />
+  <rect x="56" y="44" width="24" height="24" rx="6" fill="#E63946" opacity="0.22" />
+  <rect x="86" y="44" width="24" height="24" rx="6" fill="#fff" opacity="0.09" />
+  <rect x="116" y="44" width="24" height="24" rx="6" fill="#457B9D" opacity="0.28" />
+  <rect x="26" y="74" width="24" height="24" rx="6" fill="#457B9D" opacity="0.18" />
+  <rect x="56" y="74" width="24" height="24" rx="6" fill="#fff" opacity="0.07" />
+  <rect x="86" y="74" width="24" height="24" rx="6" fill="#E63946" opacity="0.16" />
+  <rect x="116" y="74" width="24" height="24" rx="6" fill="#fff" opacity="0.09" />
+</svg>

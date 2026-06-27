@@ -340,7 +340,8 @@ section { padding: 72px 0; }
   transform: translateY(-4px);
   box-shadow: 0 8px 32px rgba(230,57,70,0.15);
 }
-.device-icon { font-size: 2.8rem; margin-bottom: 14px; }
+.device-img { height: 90px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; }
+.device-img img { height: 90px; width: auto; object-fit: contain; }
 .device-card h3 {
   font-size: 1rem;
   font-weight: 700;
